@@ -2,7 +2,10 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .ruff_cache/
+temp_auto_push.bat
 *.egg-info/
 .venv/
 dist/
 build/
+.gitignore
+branch_structure.json
